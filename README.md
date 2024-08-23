@@ -10,8 +10,8 @@ Unnecessary Columns Removed: We removed non-essential columns such as EmpID, Emp
 Missing Values Check: We checked for and confirmed there were no missing values in the dataset.
 Interactive Dashboard Creation:
 
-Tools Used: We utilized Plotly Dash, a Python framework for building web-based interactive dashboards.
-Visualizations:
+Tools Used: We utilized Power BI, Excel.
+
 Attrition Analysis: We visualized attrition rates by department, age group, and job role to understand where the organization is losing employees.
 Performance vs. Satisfaction: We analyzed the relationship between job satisfaction and performance ratings to identify trends and areas of improvement.
 Compensation Analysis: A histogram of monthly income helped us understand the income distribution across the organization.
